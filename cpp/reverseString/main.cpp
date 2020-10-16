@@ -53,7 +53,7 @@ void reverse(char str[])
   
 int main()  
 {  
-    char str[] = "Hasktoberfest";  
+    char str[] = "Hacktoberfest";  
   
     reverse(str);  
     cout << "Reversed string is " << str;  
